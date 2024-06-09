@@ -1,3 +1,2 @@
 # sonar_01
-Repository with STM32L4 project, working stepper motor, sensor and UI
-..
+Projekt zaliczeniowy sonaru z wykorzystaniem mikrokontrolera STM32 na zajęcia MPiMS
