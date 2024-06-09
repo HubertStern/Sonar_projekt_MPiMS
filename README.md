@@ -1,2 +1,3 @@
-# Sonar_projekt_MPiMS
-Project repository for MPiMS
+# sonar_01
+Repository with STM32L4 project, working stepper motor, sensor and UI
+..
